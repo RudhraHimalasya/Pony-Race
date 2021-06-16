@@ -1,0 +1,17 @@
+body{
+    background-image: url("bgg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#myCanvas{
+background-color: snow;
+border-width:10px;
+border-style:ridge;
+}
+
+.h11{
+    color: tomato;
+    
+}
